@@ -2,7 +2,7 @@
 Flutter Social Chat UI
 =======
 
-Flutter Social Chat UI application developed from scratch. [Code written in Dart 2]
+Flutter Social Chat UI application developed from scratch following good programming practices and OOPS concepts. [Code written in Dart 2]
 <br/><br/>
 **References:**
 <br/>
