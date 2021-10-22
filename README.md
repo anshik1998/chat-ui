@@ -1,11 +1,11 @@
 # chat-ui
-Flutter Chat UI
+Flutter Social Chat UI
 =======
 
-Flutter Chat application developed from scratch.
+Flutter Social Chat UI application developed from scratch. [Code written in Dart 2]
 <br/><br/>
 **References:**
 <br/>
-Github: https://github.com/MarcusNg/flutter_chat_ui
+Github: https://github.com/MarcusNg/flutter_chat_ui [Written in Dart 1.x]
 <br/>
 YouTube: https://youtu.be/h-igXZCCrrc
